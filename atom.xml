@@ -1,16 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Through Time & Space]]></title>
   <link href="http://redick.github.com/atom.xml" rel="self"/>
   <link href="http://redick.github.com/"/>
-  <updated>2013-01-05T12:40:42+08:00</updated>
+  <updated>2013-01-06T00:49:36+08:00</updated>
   <id>http://redick.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[balicanta]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[於是我就蠻喜歡這個Octopress的]]></title>
+    <link href="http://redick.github.com/blog/2013/01/05/my-first-post/"/>
+    <updated>2013-01-05T12:44:00+08:00</updated>
+    <id>http://redick.github.com/blog/2013/01/05/my-first-post</id>
+    <content type="html"><![CDATA[<p>從我開始懂事，我就一直想找個地方可以讓我好好的寫Blog</p>
+
+<p>但是一直以來我始終都沒有辦法找到個地方，讓我好好的紀錄我認識的世界</p>
+
+<p>而直到今年2013年，在某種因緣際會下，認識了Octopress</p>
+
+<p>也在陰錯陽差之下，我知道他可以被放上Github</p>
+
+<p>總的來說，我不僅可以有自己的domain Name(redick.github.com)</p>
+
+<p>還可以在輕鬆的環境下寫文章，怎麼看都像是個很好的選擇</p>
+
+<p>希望這個 blogging framework for hackers</p>
+
+<p>能夠養成好習慣 - 記錄人生。</p>
+]]></content>
+  </entry>
   
 </feed>
