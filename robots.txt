@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://redick.github.com/sitemap.xml 
